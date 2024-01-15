@@ -6,6 +6,7 @@
 - 🔭 Я сейчас работаю над [Кофейный Гид](https://github.com/py-Coffee-Guide/) 
 - 🌱 Я сейчас учу: TypeScript
 - 📫 Со мной можно связаться: [@alena_lialiushkina](https://t.me/alena_lialiushkina) in **Telegram**
+- :whale2: Живу в городе у моря 
 
 ---
 
