@@ -3,8 +3,8 @@
 
 ---
 
-- 🔭 Я сейчас работаю над [Кофейный Гид](https://github.com/py-Coffee-Guide/) 
-- 🌱 Я сейчас учу: TypeScript
+- 🔭 Я сейчас работаю над [Sportplatform.ru](https://sportplatform.ru/) 
+- 🌱 Я сейчас учу: Next.js
 - 📫 Со мной можно связаться: [@alena_lialiushkina](https://t.me/alena_lialiushkina) in Telegram
 - :whale2: Живу в городе у моря 
 
